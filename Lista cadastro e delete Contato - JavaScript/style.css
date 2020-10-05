@@ -1,0 +1,17 @@
+*{
+
+}
+
+a {
+  text-decoration-color: transparent;
+  text-decoration: transparent;
+  text-decoration-line: none;
+  color: white;
+
+}
+
+.btn-primary {
+
+  color: red;
+  background-color: red
+}
